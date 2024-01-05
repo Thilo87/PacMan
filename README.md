@@ -1,1 +1,1 @@
-Just a simple PacMan I made with Python.
+Just a simple console PacMan I made with Python. Runs only on Windows systems.
